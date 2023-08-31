@@ -1,0 +1,2 @@
+basic_auth_users:
+  prometheus: $2y$10$2.VMjnz7e5JrotpnNUlcgeMJmxD59QtMYIroXGk4ZW2bCtaM9kOBe ## a hash password using apche 2 utils hash password

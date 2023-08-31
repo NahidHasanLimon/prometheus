@@ -1,0 +1,7 @@
+
+##Under - job_name: "nodes" add below lines:
+
+
+basic_auth:
+  username: prometheus
+  password: secret-password
